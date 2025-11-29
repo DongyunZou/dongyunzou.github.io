@@ -6,4 +6,4 @@
 
 #### Published
 
-- Chen, Junyu and <strong>Zou, Dongyun</strong> and He, Wenkun and Chen, Junsong and Xie, Enze and Han, Song and Cai, Han. DC-AE 1.5: Accelerating Diffusion Model Convergence with Structured Latent Space. <strong>Proceedings of the IEEE/CVF International Conference on Computer Vision. 2025.</strong> [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_DC-AE_1.5_Accelerating_Diffusion_Model_Convergence_with_Structured_Latent_Space_ICCV_2025_paper.html) [[Code]](https://github.com/dc-ai-projects/DC-Gen)
+- Junyu Chen, <strong>Dongyun Zou</strong>, Wenkun He, Junsong Chen,Enze Xie, Song Han and Han Cai. DC-AE 1.5: Accelerating Diffusion Model Convergence with Structured Latent Space. <strong>Proceedings of the IEEE/CVF International Conference on Computer Vision. 2025.</strong> [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_DC-AE_1.5_Accelerating_Diffusion_Model_Convergence_with_Structured_Latent_Space_ICCV_2025_paper.html) [[Code]](https://github.com/dc-ai-projects/DC-Gen)
