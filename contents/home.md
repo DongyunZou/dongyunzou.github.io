@@ -1,6 +1,6 @@
 [![dongyunzou](https://img.shields.io/badge/dongyunzou-github-blue?logo=github)](https://github.com/dongyunzou)
 
-He is currently an undergraduate student at Tsinghua University, majoring in Electronic Engineering.
+Hi, Everyone! I'm Dongyun Zou, a senior undergraduate student at Tsinghua University, majoring in Electronic Engineering. My research interests lie in deep learning, diffusion models, and efficient algorithms. I am actively seeking PhD opportunities for Fall 2026.
 
 #### Contact
 Email: dongyunzou03[at]gmail.com
