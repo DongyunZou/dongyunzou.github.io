@@ -10,3 +10,7 @@ Email: dongyunzou03[at]gmail.com
 
 #### Research Interests
 Deep Learning, Diffusion Models, Efficient Algorithms
+
+#### Extra-Curricular Activities
+2023-2024 Head of Hardware Department in Student Association of Science and Technology (EESAST)
+2024-2025 Vice President of Student Association of Science and Technology (EESAST)
