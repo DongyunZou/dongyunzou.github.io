@@ -1,6 +1,6 @@
-#### Submitted
+#### Accepted
 
-- <strong>Dongyun Zou</strong>, Zhuoyang Zhang, Junyu Chen, Wenkun He, Qinhe Peng, Hanrong Ye, Yao Lu, Hongxu Yin, Yu Wang, Song Han and Han Cai. JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search. In submission.
+- <strong>Dongyun Zou</strong>, Zhuoyang Zhang, Junyu Chen, Wenkun He, Qinhe Peng, Hanrong Ye, Yao Lu, Hongxu Yin, Yu Wang, Song Han and Han Cai. JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search. <strong>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026.</strong>
 
 #### Published
 
