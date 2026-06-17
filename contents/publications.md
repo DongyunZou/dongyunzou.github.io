@@ -1,8 +1,6 @@
-#### Accepted
-
-- <strong>Dongyun Zou</strong>, Zhuoyang Zhang, Junyu Chen, Wenkun He, Qinhe Peng, Hanrong Ye, Yao Lu, Hongxu Yin, Yu Wang, Song Han and Han Cai. JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search. <strong>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026.</strong> [[Paper]](https://arxiv.org/abs/2605.26636)
-
 #### Published
+
+- <strong>Dongyun Zou</strong>, Zhuoyang Zhang, Junyu Chen, Wenkun He, Qinhe Peng, Hanrong Ye, Yao Lu, Hongxu Yin, Yu Wang, Song Han and Han Cai. JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search. <strong>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026.</strong> [[Paper]](https://openaccess.thecvf.com/content/CVPR2026F/papers/Zou_JetViT_Efficient_High-Resolution_Vision_Transformer_with_Post-Training_Attention_Search_CVPRF_2026_paper.pdf)
 
 - <strong>Dongyun Zou </strong>*, Enshu Liu*, Xuefei Ning, Huazhong Yang and Yu Wang. USF++: A Unified Sampling Framework for Solver Searching of Diffusion Probabilistic Models. <strong>Transactions on Pattern Analysis and Machine Intelligence</strong> [[Paper]](https://ieeexplore.ieee.org/document/11275964) [[Code]](https://github.com/thu-nics/USF)
 
