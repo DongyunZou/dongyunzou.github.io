@@ -1,3 +1,3 @@
-- National Scholarship for Undergraduate Students (Ministry of Education, China), 2023.
-- National Scholarship for Undergraduate Students (Ministry of Education, China), 2024.
-- National Scholarship for Undergraduate Students (Ministry of Education, China), 2025.
+- Tsinghua University Comprehensive Excellence Scholarship, 2023.
+- Tsinghua University Comprehensive Excellence Scholarship, 2024.
+- Tsinghua University Comprehensive Excellence Scholarship, 2025.
