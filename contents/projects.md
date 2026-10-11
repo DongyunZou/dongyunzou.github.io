@@ -29,7 +29,7 @@
     <p class="research-authors">Xingyang Li<sup>&#42;</sup>, <strong>Dongyun Zou</strong><sup>&#42;</sup>, Shining Zhang, Jiacheng Chen, Haocheng Xi, Lvmin Zhang, Jun-Yan Zhu, Song Han, Zhekai Zhang, Yujun Lin and Muyang Li.</p>
   </div>
   <div class="research-body">
-    <a class="research-cover" href="https://arxiv.org/html/2609.15810v1" target="_blank" rel="noopener noreferrer" aria-label="Explore VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention"><img src="static/assets/img/projects/vc-attention.png" alt="A video frame generated with VC-Attention: a woman holding a crimson scarf" width="1344" height="768" loading="lazy"></a>
+    <a class="research-cover" href="https://arxiv.org/html/2609.15810v1" target="_blank" rel="noopener noreferrer" aria-label="Explore VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention"><img src="static/assets/img/projects/vc-attention-figure5.png" alt="VC-Attention Figure 5: ExpCast-FP8 replaces exponentiation and casting with a linear map; the plots show the encoded byte and approximation error" width="1666" height="670" loading="lazy"></a>
     <div class="research-description">
       <p>Training-free low-bit attention for faster video generation. <strong>V-Smooth</strong> groups and smooths value tokens to reduce quantization error; <strong>ExpCast-FP8</strong> directly encodes attention probabilities to remove the softmax bottleneck.</p>
       <p>Evaluated across four video diffusion models, with attention speedups of <strong>1.46–1.59×</strong> on datacenter GPUs and <strong>2.3–3.6×</strong> on workstation GPUs over BF16 FlashAttention-4.</p>
