@@ -71,6 +71,14 @@ Fire up a browser and go to `https://<username>.github.io`
 > Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub.
 
 
+## Updating research cards
+
+Edit `contents/projects.md` to update the project cards. Each `research-card` contains venue and contribution labels, a linked local cover, a short description, and resource links. Keep image dimensions and descriptive alt text, and use `research-card-featured` for the highlighted project. Card styles and the mobile layout are in `static/css/main.css`.
+
+Store covers in `static/assets/img/projects/` and record their sources in `SOURCES.md` in that directory. Paper authors and venue information are included in the project cards; use `<sup>&#42;</sup>` for equal contribution. Humanize's GitHub stars badge updates through Shields.io rather than a fixed count.
+
+Preview locally with `python3 -m http.server 8765`, then open `http://localhost:8765`. The site is static and requires no build step.
+
 ## License
 
 Copyright Sen Li, 2023-2025. Licensed under an MIT license. You can copy and mess with this template.

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kernel Design Agents</title>
+  <desc id="desc">An iterative CUDA optimization workflow: implement, verify, profile, and optimize, informed by a kernel knowledge base.</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 8 4 0 8" fill="none" stroke="#701e5e" stroke-width="1.5"/></marker></defs>
+  <rect width="640" height="360" rx="18" fill="#faf7fa"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="320" y="47" font-size="14" letter-spacing="2" fill="#701e5e">AGENTIC CUDA OPTIMIZATION</text>
+    <g fill="#fff" stroke="#d8c6d4" stroke-width="1.5"><rect x="54" y="84" width="218" height="70" rx="12"/><rect x="368" y="84" width="218" height="70" rx="12"/><rect x="368" y="213" width="218" height="70" rx="12"/><rect x="54" y="213" width="218" height="70" rx="12"/></g>
+    <g font-size="21" fill="#332c34"><text x="163" y="113">Implement</text><text x="477" y="113">Verify</text><text x="477" y="242">Profile</text><text x="163" y="242">Optimize</text></g>
+    <g font-size="13" fill="#706572"><text x="163" y="135">Build a CUDA kernel</text><text x="477" y="135">Check correctness</text><text x="477" y="264">Measure bottlenecks</text><text x="163" y="264">Refine the candidate</text></g>
+    <g fill="none" stroke="#701e5e" stroke-width="2" marker-end="url(#arrow)"><path d="M282 119H350"/><path d="M477 164V196"/><path d="M358 248H291"/><path d="M163 204V172"/></g>
+    <text x="320" y="184" font-size="13" fill="#701e5e">Kernel knowledge base</text>
+    <text x="320" y="329" font-size="13" fill="#706572">MLSys 2026 · Full-Agent tracks · 1st / 2nd / 3rd</text>
+  </g>
+</svg>
